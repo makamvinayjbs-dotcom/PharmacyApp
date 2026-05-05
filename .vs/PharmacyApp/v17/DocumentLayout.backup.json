@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|c:\\users\\gsvi2\\source\\repos\\pharmacyapp\\pharmacyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|solutionrelative:pharmacyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|c:\\users\\gsvi2\\source\\repos\\pharmacyapp\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|solutionrelative:wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|c:\\users\\gsvi2\\source\\repos\\pharmacyapp\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|solutionrelative:wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|c:\\users\\gsvi2\\source\\repos\\pharmacyapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|c:\\users\\gsvi2\\source\\repos\\pharmacyapp\\data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|solutionrelative:data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|c:\\users\\gsvi2\\source\\repos\\pharmacyapp\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|solutionrelative:controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|c:\\users\\gsvi2\\source\\repos\\pharmacyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105C1671-C53E-4D56-B951-60DA661E0584}|PharmacyApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "wwwroot\\app.js",
+              "ToolTip": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\wwwroot\\app.js",
+              "RelativeToolTip": "wwwroot\\app.js",
+              "ViewState": "AgIAALQAAAAAAAAAAADwv8YAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-05T12:17:24.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\wwwroot\\style.css",
+              "RelativeToolTip": "wwwroot\\style.css",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAowAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-05T12:17:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowGYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-05T12:16:13.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:13:35.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicineController.cs",
+              "ToolTip": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "Controllers\\MedicineController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:13:25.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "medicines.json",
+              "DocumentMoniker": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\Data\\medicines.json",
+              "RelativeDocumentMoniker": "Data\\medicines.json",
+              "ToolTip": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\Data\\medicines.json",
+              "RelativeToolTip": "Data\\medicines.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-05T12:12:16.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PharmacyApp",
+              "DocumentMoniker": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\PharmacyApp.csproj",
+              "RelativeDocumentMoniker": "PharmacyApp.csproj",
+              "ToolTip": "C:\\Users\\GSVI2\\source\\repos\\PharmacyApp\\PharmacyApp.csproj",
+              "RelativeToolTip": "PharmacyApp.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-05T12:12:23.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

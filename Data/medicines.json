@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 0,
+    "FullName": "",
+    "Notes": "",
+    "ExpiryDate": "0001-01-01T00:00:00",
+    "Quantity": 0,
+    "Price": 0,
+    "Brand": ""
+  },
+  {
+    "Id": 0,
+    "FullName": "",
+    "Notes": "",
+    "ExpiryDate": "0001-01-01T00:00:00",
+    "Quantity": 0,
+    "Price": 0,
+    "Brand": ""
+  },
+  {
+    "Id": 0,
+    "FullName": "",
+    "Notes": "",
+    "ExpiryDate": "0001-01-01T00:00:00",
+    "Quantity": 0,
+    "Price": 0,
+    "Brand": ""
+  },
+  {
+    "Id": 1,
+    "FullName": "SAMPLE",
+    "Notes": "",
+    "ExpiryDate": "2026-05-23T00:00:00",
+    "Quantity": 0,
+    "Price": 9.99,
+    "Brand": "TEST"
+  }
+]

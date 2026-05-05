@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "fullName": "Paracetamol 500mg",
+    "notes": "Take after meals",
+    "expiryDate": "2024-06-15T00:00:00",
+    "quantity": 5,
+    "price": 2.50,
+    "brand": "Calpol"
+  },
+  {
+    "id": 2,
+    "fullName": "Amoxicillin 250mg",
+    "notes": "Complete the course",
+    "expiryDate": "2026-12-20T00:00:00",
+    "quantity": 50,
+    "price": 15.75,
+    "brand": "Amoxil"
+  },
+  {
+    "id": 3,
+    "fullName": "Ibuprofen 400mg",
+    "notes": "Anti-inflammatory",
+    "expiryDate": "2024-05-10T00:00:00",
+    "quantity": 8,
+    "price": 5.00,
+    "brand": "Advil"
+  }
+]
